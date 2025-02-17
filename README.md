@@ -27,6 +27,9 @@ Bu nöqtədə P19 üzərində işləyə bilərsiniz
 ## Dəstək
 Dəstək üçün linux8888l@outlook.com xidmət edir
 
+## Hostinq
+P19-un hostinqini [Cloudflare](https://www.cloudflare.com) təmin edir
+
 ## Lisenziya
 [MIT](https://github.com/linux8888llll/P19/blob/main/LICENSE)
 
